@@ -1,0 +1,5 @@
+PERSON Fry
+  FATHER_OF Yancy
+
+PERSON Yancy
+  FATHER_OF Fry 

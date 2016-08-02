@@ -1,0 +1,5 @@
+PERSON Kevin
+	FATHER_OF Danny
+
+PERSON Danny
+	FATHER_OF Kevin 

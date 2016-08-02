@@ -1,0 +1,13 @@
+To Compile All:
+	make
+To Compile Just Zip:
+	cd Zip
+	make
+To Compile Just UnZip:
+	cd UnZip
+	make
+
+Executables will be placed in top level directoy
+
+Running   ZIP: ./zip <FILENAME>
+Running UnZip: ./unzip <FILENAME>

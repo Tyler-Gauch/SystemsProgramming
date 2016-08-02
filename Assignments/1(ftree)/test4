@@ -1,0 +1,7 @@
+SON Sam
+  FATHER_OF Fred
+  SEX M
+
+PERSON Fred 
+  SEX M
+  FATHER Sam 

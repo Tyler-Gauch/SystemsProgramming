@@ -1,0 +1,28 @@
+PERSON Jake
+  SEX M
+  FATHER Dan
+  MOTHER Petunia
+  FATHER_OF Katie
+
+PERSON Hera
+  MOTHER_OF Katie
+
+PERSON Katie
+  FATHER Jake
+  MOTHER Hera
+  SEX F
+  
+PERSON Dan
+  FATHER_OF Tammy
+  FATHER_OF Cindy
+
+PERSON Lara
+  FATHER Jerry 
+  MOTHER Cindy
+
+PERSON George
+  SEX M
+
+PERSON Petunia
+  MOTHER_OF Tammy
+  MOTHER_OF Cindy
